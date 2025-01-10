@@ -1,0 +1,8 @@
+.table-item{
+text-transform: capitalize;
+font-weight: 500;
+font-size: 16px;
+text-align: left;
+border: 2px solid rgb(43, 43, 43);
+padding: 5px 85px;
+}
